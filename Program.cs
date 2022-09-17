@@ -58,20 +58,5 @@
 //}
 #endregion //TASK2 DONE
 
-#region TASK3
-//double num1, num2, num3, num4;
-//int result = 0;
 
-//Console.WriteLine("Введите первое число");
-//num1 = Double.Parse(Console.ReadLine());
-//Console.WriteLine("Введите второе число");
-//num2 = Double.Parse(Console.ReadLine());
-//Console.WriteLine("Введите третье число");
-//num3 = Double.Parse(Console.ReadLine());
-//Console.WriteLine("Введите четвертое число");
-//num4 = Double.Parse(Console.ReadLine());
-
-//result = (((result + (int)num1)*10 + (int)num2)*10 + (int)num3)*10+(int)num4;
-//Console.WriteLine("Результаt:  {0}", result);
-#endregion //TASK3 DONE
 
